@@ -1,7 +1,8 @@
 # Gnp_ML_models
 データ上げないでくださいね
 それぞれの解析モデルごとにscriptを分けるのではなく、1つのscriptにまとめることにしました
-ディレクトリ構成としては、statistics,modelで分けます
+
+ディレクトリ構成としては、statistics,modelで分けています
 
 1. statisticsにはモデルの解析結果を載せますが、今の段階としてはそれぞれのモデル解析ごとに分けるようなディレクトリ構成にしたいと思います
 　 ex) logstic, knn, nn, GBM, DecisionTreeみたいな感じを想定しています。その中に各データの解析結果が格納します
